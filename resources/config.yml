@@ -1,0 +1,8 @@
+---
+# Rtp
+desc.rtp: "Permet de se téléporter aléatoirement"
+message.rtp: "§aVous avez bien été téléporté aléatoirement !"
+wild-MaxX: "500"
+wild-MaxY: "500"
+console.rtp: "La commande doit être executer en jeu !"
+...

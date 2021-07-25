@@ -1,0 +1,15 @@
+name: PlHiroteam
+version: 0.1
+api: 3.0.0
+main: Narkos\hiroteam
+author: Narkos
+
+commands:
+  reloadrtp:
+    description: "Reload le RTP"
+    permission: "reloadrtp.use"
+
+    permissions:
+      reloadrtp.use:
+        description: "Donne l'acces a la commande"
+        default: "op"
